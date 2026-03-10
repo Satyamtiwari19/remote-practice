@@ -1,1 +1,6 @@
-Staged change example
+
+Main branch version:
+Version from main.
+
+Feature branch version:
+Version from conflict-test.
